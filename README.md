@@ -1,4 +1,5 @@
 # Sports Shop Sales Performance Dashboard
+![Dashboard](Dashboard.png)
 
 An interactive Excel dashboard that tracks sales, profit and customer trends for a sports retail shop, built from 100 invoices (20 Jul – 13 Oct 2026).
 
